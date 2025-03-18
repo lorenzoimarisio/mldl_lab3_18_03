@@ -1,1 +1,12 @@
-
+torch
+os
+shutil
+torchvision
+torchvision.transforms 
+torch.utils.data 
+torchvision.datasets
+matplotlib.pyplot
+requests
+zipfile
+io
+numpy 
